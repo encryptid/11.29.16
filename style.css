@@ -1,0 +1,43 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+section.sec1 {
+    height: 600px;
+    border: 10px solid white;
+    margin: 57px 52px 0px 52px;
+}
+
+section.sec1 *h1 {
+    margin: auto;
+}
+
+section.sec2 {
+    background-color: #282828;
+}
+
+section.sec3 {
+    background-color: #d7d7d7;
+}
+
+section.sec4 {
+    background-color: #a79580;
+}
+
+h1 {
+    color: rgb(189, 163, 132);
+    font-family: Big John;
+}
+
+h1.wanted {
+    font-size: 160px;
+}
+
+h2 {
+background-color: white;
+}
+
+p {
+    color: white;
+}
